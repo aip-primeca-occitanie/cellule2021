@@ -8,6 +8,7 @@
           cd etu
           cp exemple/Tuto_Basique.main_commande.cpp .
           ./script1_CompileandRun.sh Tuto_Basique data2_1_1_n0
+          
 ps : il peut être necessaire d'ajouter les appli suivantes :
     Installer la librairie modbus xterm et quelques bibliothèques graphique pour coppelliasim avec
 
