@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/aip/depot_git/TERcelluleflexible/celluleflexible/ros_ws/devel/setup.sh

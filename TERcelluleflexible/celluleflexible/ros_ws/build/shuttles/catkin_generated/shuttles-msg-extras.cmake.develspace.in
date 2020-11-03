@@ -1,0 +1,2 @@
+set(shuttles_MESSAGE_FILES "/home/aip/depot_git/TERcelluleflexible/celluleflexible/ros_ws/src/shuttles/msg/msgShuttleChange.msg;/home/aip/depot_git/TERcelluleflexible/celluleflexible/ros_ws/src/shuttles/msg/msgShuttleCreate.msg;/home/aip/depot_git/TERcelluleflexible/celluleflexible/ros_ws/src/shuttles/msg/Msg_Erreur.msg")
+set(shuttles_SERVICE_FILES "/home/aip/depot_git/TERcelluleflexible/celluleflexible/ros_ws/src/shuttles/srv/shuttle_id.srv")
