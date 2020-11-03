@@ -1,4 +1,0 @@
-Creation fichier log: Tue Nov  3 12:42:38 2020
-
-NouveauProduit: 24 :0.90
-TempoT: 24: 1: 4

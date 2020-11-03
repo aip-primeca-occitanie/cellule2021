@@ -1,2 +1,0 @@
-set(aiguillages_MESSAGE_FILES "/home/aip/depot_git/TERcelluleflexible/celluleflexible/ros_ws/src/aiguillages/msg/Capteurs.msg;/home/aip/depot_git/TERcelluleflexible/celluleflexible/ros_ws/src/aiguillages/msg/Actionneurs.msg;/home/aip/depot_git/TERcelluleflexible/celluleflexible/ros_ws/src/aiguillages/msg/ExchangeSh.msg;/home/aip/depot_git/TERcelluleflexible/celluleflexible/ros_ws/src/aiguillages/msg/Msg_SensorState.msg")
-set(aiguillages_SERVICE_FILES "")
